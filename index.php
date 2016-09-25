@@ -24,6 +24,9 @@
 		<div id="bus">
 			<img src="images/finishedskooliebus.jpg" alt="Picture of my bus finished" />
 		</div>
+		<div class="embed-responsive embed-responsive-16by9">
+			<iframe class="embed-responsive-item" src="https://www.youtube.com/watch?v=hw6v9Q_nA9k"></iframe>
+		</div>
 
 	</body>
 </html>
