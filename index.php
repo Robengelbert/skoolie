@@ -19,7 +19,7 @@
 		<header class="head">
 			<h1>Skoolies</h1>
 		</header>
-		<p>My skoolie is a 2001 International 3000, It's 38ft long. I bought it in Feburary 2015, and started converting it immediately. I finished in Feburauy 2016 and now have a awesome home.</p>
+		<p class="lead">My skoolie is a 2001 International 3000, It's 38ft long. I bought it in Feburary 2015 for $3500, and started converting it immediately. I finished in Feburauy 2016 and now have a awesome home. I created this website to display some videos and pictures I took along the way. I tried to document the entire conversion, but toward the end of the conversion I got very busy and was'nt able to take as many videos. I hope you enjoy my web site, These videos are all on youtube where you can like and comment on them.</p>
 		<img src="" alt="" />
 		<div id="bus">
 			<img src="images/finishedskooliebus.jpg" alt="Picture of my bus finished" />
