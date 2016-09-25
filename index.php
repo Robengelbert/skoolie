@@ -45,8 +45,13 @@
 			<div class="row">
 				<div class="col-md-6">
 					<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" width="560" height="315"
-								  src="https://www.youtube.com/embed/hw6v9Q_nA9k" frameborder="0" allowfullscreen></iframe>
+						<iframe class="embed-responsive-item"
+								  src="https://www.youtube.com/embed/hw6v9Q_nA9k"></iframe>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cPQcmfF6tbQ"></iframe>
 					</div>
 				</div>
 			</div>
