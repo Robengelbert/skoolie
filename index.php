@@ -98,65 +98,74 @@
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zjWjkGhPl8A"></iframe>
 					</div>
 				</div>
+<!--				Day 10,11,12,13&14 Electrical-->
 				<div class="col-md-6">
 					<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" src=""></iframe>
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7Ao1DRaIK1g"></iframe>
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="container">
 			<div class="row">
+<!--				Days 15&16 Insulation-->
 				<div class="col-md-6">
 					<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" src=""></iframe>
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Fvn6qgSAueM"></iframe>
 					</div>
 				</div>
+				Days 17&18 paneling
 				<div class="col-md-6">
 					<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" src=""></iframe>
-					</div>
-				</div>
-			</div>
-		</div>
-		<div class="container">
-			<div class="row">
-				<div class="col-md-6">
-					<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" src=""></iframe>
-					</div>
-				</div>
-				<div class="col-md-6">
-					<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" src=""></iframe>
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/e9EOrhoe-KE"></iframe>
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="container">
 			<div class="row">
+<!--				Rv bathtub for skoolie conversion-->
 				<div class="col-md-6">
 					<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" src=""></iframe>
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zqntG77n02s"></iframe>
 					</div>
 				</div>
+<!--				Days 19-24 What a mess-->
 				<div class="col-md-6">
 					<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" src=""></iframe>
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/S9a62cEJszg"></iframe>
 					</div>
 				</div>
 			</div>
 		</div>
 		<div class="container">
 			<div class="row">
+<!--				Update on bus progress-->
 				<div class="col-md-6">
 					<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" src=""></iframe>
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3mGPJB1w7Hg"></iframe>
 					</div>
 				</div>
+<!--				Bus progress update-->
 				<div class="col-md-6">
 					<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" src=""></iframe>
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ME1ib9KvqNk"></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+<!--				Almost there!-->
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eQpsrnoVR_M"></iframe>
+					</div>
+				</div>
+<!--				Fresh paint now what about the door-->
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mZPD1Rre1Zg"></iframe>
 					</div>
 				</div>
 			</div>
