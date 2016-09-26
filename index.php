@@ -43,12 +43,14 @@
 		<!--		</div>-->
 		<div class="container">
 			<div class="row">
+				<!--				Day 1 removing seats-->
 				<div class="col-md-6">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item"
 								  src="https://www.youtube.com/embed/hw6v9Q_nA9k"></iframe>
 					</div>
 				</div>
+				<!--				Day 2 removing plywood floor-->
 				<div class="col-md-6">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cPQcmfF6tbQ"></iframe>
@@ -56,6 +58,108 @@
 				</div>
 			</div>
 		</div>
-		<!--		<iframe width="560" height="315" src="https://www.youtube.com/embed/hw6v9Q_nA9k" frameborder="0" allowfullscreen></iframe>-->
+		<div class="container">
+			<div class="row">
+				<!--				Day 3 & 4 removing windows-->
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zDrjJ0NosBg"></iframe>
+					</div>
+				</div>
+				<!--				Days 5 and 6 review-->
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GpbCLNKa_Bk"></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<!--				Day 7 plywood floor-->
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RiWMqFQK4fc"></iframe>
+					</div>
+				</div>
+				<!--				Day 8 first day of framing-->
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kXK6iWwLux8"></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<!--				Day 9 second day of framing-->
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zjWjkGhPl8A"></iframe>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src=""></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src=""></iframe>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src=""></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src=""></iframe>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src=""></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src=""></iframe>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src=""></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src=""></iframe>
+					</div>
+				</div>
+				<div class="col-md-6">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src=""></iframe>
+					</div>
+				</div>
+			</div>
+		</div>
 	</body>
 </html>
