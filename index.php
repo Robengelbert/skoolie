@@ -43,132 +43,343 @@
 		<!--		</div>-->
 		<div class="container">
 			<div class="row">
+				<div class="col-md-2"></div>
 				<!--				Day 1 removing seats-->
-				<div class="col-md-6">
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item"
 								  src="https://www.youtube.com/embed/hw6v9Q_nA9k"></iframe>
 					</div>
 				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">Removing the seats is very easy with a grinder that has a cutting wheel, a pair of channel locks, a couple of wrenches and a rachet. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
 				<!--				Day 2 removing plywood floor-->
-				<div class="col-md-6">
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/cPQcmfF6tbQ"></iframe>
 					</div>
 				</div>
+				<div class="col-md-2"></div>
 			</div>
 		</div>
 		<div class="container">
 			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
 				<!--				Day 3 & 4 removing windows-->
-				<div class="col-md-6">
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zDrjJ0NosBg"></iframe>
 					</div>
 				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
 				<!--				Days 5 and 6 review-->
-				<div class="col-md-6">
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/GpbCLNKa_Bk"></iframe>
 					</div>
 				</div>
+				<div class="col-md-2"></div>
 			</div>
 		</div>
 		<div class="container">
 			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
 				<!--				Day 7 plywood floor-->
-				<div class="col-md-6">
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/RiWMqFQK4fc"></iframe>
 					</div>
 				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
 				<!--				Day 8 first day of framing-->
-				<div class="col-md-6">
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/kXK6iWwLux8"></iframe>
 					</div>
 				</div>
+				<div class="col-md-2"></div>
 			</div>
 		</div>
 		<div class="container">
 			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
 				<!--				Day 9 second day of framing-->
-				<div class="col-md-6">
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zjWjkGhPl8A"></iframe>
 					</div>
 				</div>
-<!--				Day 10,11,12,13&14 Electrical-->
-				<div class="col-md-6">
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<!--				Day 10,11,12,13&14 Electrical-->
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/7Ao1DRaIK1g"></iframe>
 					</div>
 				</div>
+				<div class="col-md-2"></div>
 			</div>
 		</div>
 		<div class="container">
 			<div class="row">
-<!--				Days 15&16 Insulation-->
-				<div class="col-md-6">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<!--				Days 15&16 Insulation-->
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/Fvn6qgSAueM"></iframe>
 					</div>
 				</div>
-				Days 17&18 paneling
-				<div class="col-md-6">
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<!--				Days 17&18 paneling-->
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/e9EOrhoe-KE"></iframe>
 					</div>
 				</div>
+				<div class="col-md-2"></div>
 			</div>
 		</div>
 		<div class="container">
 			<div class="row">
-<!--				Rv bathtub for skoolie conversion-->
-				<div class="col-md-6">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<!--				Rv bathtub for skoolie conversion-->
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/zqntG77n02s"></iframe>
 					</div>
 				</div>
-<!--				Days 19-24 What a mess-->
-				<div class="col-md-6">
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<!--				Days 19-24 What a mess-->
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/S9a62cEJszg"></iframe>
 					</div>
 				</div>
+				<div class="col-md-2"></div>
 			</div>
 		</div>
 		<div class="container">
 			<div class="row">
-<!--				Update on bus progress-->
-				<div class="col-md-6">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<!--				Update on bus progress-->
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/3mGPJB1w7Hg"></iframe>
 					</div>
 				</div>
-<!--				Bus progress update-->
-				<div class="col-md-6">
-					<div class="embed-responsive embed-responsive-4by3">
-						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ME1ib9KvqNk"></iframe>
-					</div>
-				</div>
+				<div class="col-md-2"></div>
 			</div>
 		</div>
 		<div class="container">
 			<div class="row">
-<!--				Almost there!-->
-				<div class="col-md-6">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<!--				Bus progress update-->
+				<div class="col-md-8">
+					<div class="embed-responsive embed-responsive-4by3">
+						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/ME1ib9KvqNk"></iframe>
+					</div>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<!--				Almost there!-->
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/eQpsrnoVR_M"></iframe>
 					</div>
 				</div>
-<!--				Fresh paint now what about the door-->
-				<div class="col-md-6">
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<!--				Fresh paint now what about the door-->
+				<div class="col-md-8">
 					<div class="embed-responsive embed-responsive-4by3">
 						<iframe class="embed-responsive-item" src="https://www.youtube.com/embed/mZPD1Rre1Zg"></iframe>
 					</div>
 				</div>
+				<div class="col-md-2"></div>
 			</div>
 		</div>
+		<div class="container">
+			<div class="row">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
+					<p class="lead">. </p>
+				</div>
+				<div class="col-md-2"></div>
+			</div>
+		</div>
+		<footer>
+			&copy; Skoolie conversion
+		</footer>
 	</body>
 </html>

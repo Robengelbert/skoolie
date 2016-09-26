@@ -2,8 +2,8 @@
 	float: left;
 }
 
-header{
-	background-color:deepskyblue;
+.head{
+	background: url('images/finishedskooliebus.jpg') no-repeat;
 }
 
 h1{
