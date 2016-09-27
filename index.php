@@ -63,7 +63,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">Removing the seats is very easy with a grinder that has a cutting wheel, a pair of channel locks, a couple of wrenches and a ratchet.</p>
+					<p class="lead about">Removing the seats is very easy with a grinder that has a cutting wheel, a pair of channel locks, a couple of wrenches and a ratchet.</p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -84,7 +84,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">Removing the plywood wasn't easy because the roof hatch's leaked and all the screws holing it down where rusted in. </p>
+					<p class="lead about">Removing the plywood wasn't easy because the roof hatch's leaked and all the screws holing it down where rusted in. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -105,7 +105,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">Filling in windows with sheet metal was no fun. Luckily my wife helped me hold the panels and drill and Cleco them in place </p>
+					<p class="lead about">Filling in windows with sheet metal was no fun. Luckily my wife helped me hold the panels and drill and Cleco them in place </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -126,7 +126,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">I cleaned the rust off with a grinder then coated it with Rustolem. The goo from the decals came off with goof off. </p>
+					<p class="lead about">I cleaned the rust off with a grinder then coated it with Rustolem. The goo from the decals came off with goof off. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -147,7 +147,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">We ended up topping this osb with carpet and padding to help insulate the floor, which you'll get to see in a future video.</p>
+					<p class="lead about">We ended up topping this osb with carpet and padding to help insulate the floor, which you'll get to see in a future video.</p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -168,7 +168,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">Framing the bus was very easy, not a lot to it and it was my favorite part. </p>
+					<p class="lead about">Framing the bus was very easy, not a lot to it and it was my favorite part. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -189,7 +189,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">At this point their's still more framing to do but I either ran out of wood.</p>
+					<p class="lead about">At this point their's still more framing to do but I either ran out of wood.</p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -210,7 +210,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">Things didn't go exactly like I had hoped. I had to wire a box above the main panel to supply the 50amps.</p>
+					<p class="lead about">Things didn't go exactly like I had hoped. I had to wire a box above the main panel to supply the 50amps.</p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -231,7 +231,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">This is a poor mans foam insulation. I work's really well though. </p>
+					<p class="lead about">This is a poor mans foam insulation. I work's really well though. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -252,7 +252,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">At this point you can really start to get a feel for what the bus will look like when it's finished. </p>
+					<p class="lead about">At this point you can really start to get a feel for what the bus will look like when it's finished. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -273,7 +273,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">This is a review of the bathtub we decided on. It's brand new off Ebay from rex and sons. </p>
+					<p class="lead about">This is a review of the bathtub we decided on. It's brand new off Ebay from rex and sons. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -294,7 +294,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead about">We found a cabinet on the side of the road, I took the top off and sanded it and my wife painted it. I also cut down an armour and built a cabinet for the bathroom. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -315,7 +315,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead about">Base cabinets are in with countertops on them and a kitchen sink and faucet mounted. Bathroom sink base and shower are in. I built a bed in the back bedroom.</p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -336,7 +336,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead about">Most of the cabinet doors are on. The rail and ladder for the bunks are freshly painted.  </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -357,7 +357,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead about">Couches are built in all the cabinet doors are on and most of the bus is painted. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -378,7 +378,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead about">. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
