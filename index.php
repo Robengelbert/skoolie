@@ -21,8 +21,10 @@
 	<body>
 		<div class="container-fluid">
 			<div class="row">
-				<header class="head">
-					<h1>Skoolies</h1>
+				<header>
+					<div class="head">
+						<p class="banner">Skoolies === Freedom</p>
+					</div>
 				</header>
 			</div>
 		</div>

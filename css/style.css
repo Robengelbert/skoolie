@@ -3,10 +3,20 @@
 }
 
 .head{
-	background: url('images/finishedskooliebus.jpg') no-repeat;
+	background-color:#ffd800;
+	background-attachment: fixed;
+	height: 15rem;
+
+
 }
 
+.banner{
+	text-align: center;
+	font-size:5rem;
+	padding-top:5rem;
+}
 h1{
-	color:orange;
+	margin-top:0;
+	padding-top:0;
 	text-align:center;
 }
