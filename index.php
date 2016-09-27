@@ -8,7 +8,7 @@
 				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
 <!--		google fonts-->
-		<link href="https://fonts.googleapis.com/css?family=Caveat+Brush" rel="stylesheet">
+		<link href="https://fonts.googleapis.com/css?family=Boogaloo|Rock+Salt" rel="stylesheet">
 
 		<!--		custom CSS-->
 		<link href="css/style.css" rel="stylesheet" type="text/css"/>
@@ -63,7 +63,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">Removing the seats is very easy with a grinder that has a cutting wheel, a pair of channel locks, a couple of wrenches and a rachet. </p>
+					<p class="lead">Removing the seats is very easy with a grinder that has a cutting wheel, a pair of channel locks, a couple of wrenches and a ratchet.</p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -84,7 +84,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead">Removing the plywood wasn't easy because the roof hatch's leaked and all the screws holing it down where rusted in. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -105,7 +105,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead">Filling in windows with sheet metal was no fun. Luckily my wife helped me hold the panels and drill and Cleco them in place </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -126,7 +126,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead">I cleaned the rust off with a grinder then coated it with Rustolem. The goo from the decals came off with goof off. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -147,7 +147,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead">We ended up topping this osb with carpet and padding to help insulate the floor, which you'll get to see in a future video.</p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -168,7 +168,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead">Framing the bus was very easy, not a lot to it and it was my favorite part. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -189,7 +189,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead">At this point their's still more framing to do but I either ran out of wood.</p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -210,7 +210,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead">Things didn't go exactly like I had hoped. I had to wire a box above the main panel to supply the 50amps.</p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -231,7 +231,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead">This is a poor mans foam insulation. I work's really well though. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -252,7 +252,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead">At this point you can really start to get a feel for what the bus will look like when it's finished. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -273,7 +273,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead">. </p>
+					<p class="lead">This is a review of the bathtub we decided on. It's brand new off Ebay from rex and sons. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
