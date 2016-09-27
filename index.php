@@ -7,6 +7,9 @@
 		<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css"
 				integrity="sha384-BVYiiSIFeK1dGmJRAkycuHAHRg32OmUcww7on3RYdg4Va+PmSTsz/K68vbdEjh4u" crossorigin="anonymous">
 
+<!--		google fonts-->
+		<link href="https://fonts.googleapis.com/css?family=Caveat+Brush" rel="stylesheet">
+
 		<!--		custom CSS-->
 		<link href="css/style.css" rel="stylesheet" type="text/css"/>
 
@@ -30,7 +33,7 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<p class="lead">My skoolie is a 2001 International 3000, It's 38ft long. I bought it in Feburary 2015 for
+				<p class="lead about">My skoolie is a 2001 International 3000, It's 38ft long. I bought it in Feburary 2015 for
 					$3500, and started converting it immediately. I finished in Feburauy 2016 and now have a awesome home. I
 					created this website to display some videos and pictures I took along the way. I tried to document the
 					entire conversion, but toward the end of the conversion I got very busy and was'nt able to take as many

@@ -7,18 +7,23 @@
 	box-shadow: 3px 3px 5px 6px #000;
 	background-attachment: fixed;
 	height: 15rem;
-
-
 }
 
 .banner{
 	text-align: center;
 	font-size:5rem;
 	padding-top:5rem;
+	font-family: 'Caveat Brush', cursive;
+}
+
+.about{
+	margin-top:4rem;
+	font-family: 'Caveat Brush', cursive;
 }
 
 footer{
 	background-color:#ffd800;
 	text-align:center;
 	height:5rem;
+	font-family: 'Caveat Brush', cursive;
 }
