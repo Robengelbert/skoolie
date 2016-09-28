@@ -399,11 +399,11 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-2"></div>
-				<div class="col-md-8">
-					<img src="images/finishedskooliebus.jpg" alt="Picture of my bus finished"/>
+				<div class="col-md-4"></div>
+				<div class="col-md-4">
+					<img src="images/finishedskooliebus.jpg" alt="Picture of my bus finished" class="img-responsive"/>
 				</div>
-				<div class="col-md-2"></div>
+				<div class="col-md-4"></div>
 			</div>
 		</div>
 		<div class="container">
