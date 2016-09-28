@@ -20,6 +20,10 @@
 		<script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"
 				  integrity="sha384-Tc5IQib027qvyjSMfHjOMaLkfuWVxZxUPnCJA7l2mCWNIpG9mGCD8wGNIcPD7Txa"
 				  crossorigin="anonymous"></script>
+
+<!--		Font awesome-->
+		<script src="https://use.fontawesome.com/dba65c8cde.js"></script>
+
 	</head>
 	<body>
 		<div class="container-fluid">
@@ -410,7 +414,12 @@
 			</div>
 		</div>
 		<footer>
-			&copy; Skoolie conversion
+			&copy; Robert Engelbert
+			<a href="https://twitter.com/robengelbert" target="_blank"><i class="fa fa-twitter" aria-hidden="true"></i></a>
+			<a href="https://www.linkedin.com/" target="_blank"><i class="fa fa-linkedin" aria-hidden="true"></i>
+			</a>
+			<a href="https://github.com/" target="_blank"><i class="fa fa-github" aria-hidden="true"></i>
+			</a>
 		</footer>
 	</body>
 </html>
