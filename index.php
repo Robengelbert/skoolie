@@ -35,7 +35,7 @@
 			<div class="row">
 				<p class="lead about">Our skoolie is a 2001 International 3000, It's 38ft long. We bought it in February 2015
 					for
-					$3500, and started converting it immediately. We finished in February 2016 and now have a awesome home. I
+					$3500, and started converting it immediately. We finished in February 2016 and now have a awesome home. We spent $12,000 including buying the bus and all the appliances. I
 					created this website to display some videos and pictures we took along the way. We tried to document the
 					entire conversion, but toward the end of the conversion we got very busy and weren't able to take as many
 					videos. I hope you enjoy my web site, These videos are all on youtube where you can like and comment on
@@ -395,11 +395,11 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<div class="col-md-4"></div>
-				<div class="col-md-4">
+				<div class="col-md-2"></div>
+				<div class="col-md-8">
 					<img src="images/finishedskooliebus.jpg" alt="Picture of my bus finished"/>
 				</div>
-				<div class="col-md-4"></div>
+				<div class="col-md-2"></div>
 			</div>
 		</div>
 		<div class="container">
