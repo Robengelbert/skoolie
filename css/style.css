@@ -21,6 +21,11 @@
 	font-family: 'Boogaloo', cursive;
 }
 
+.caption{
+	margin-top:3rem;
+	font-family: 'Boogaloo', cursive;
+}
+
 footer{
 	background-color:#ffd800;
 	text-align:center;
