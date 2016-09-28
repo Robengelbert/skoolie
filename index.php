@@ -30,19 +30,19 @@
 			<div class="row">
 				<header>
 					<div class="head">
-						<p class="banner">Skoolies === Freedom</p>
+						<p class="banner">Skoolie === Freedom</p>
 					</div>
 				</header>
 			</div>
 		</div>
 		<div class="container">
 			<div class="row">
-				<p class="lead about">Our skoolie is a 2001 International 3000, It's 38ft long. We bought it in February 2015
+				<p class="lead about">Our skoolie is a 2001 International 3000; It's 38ft long. We bought it in February 2015
 					for
 					$3500, and started converting it immediately. We finished in February 2016 and now have a awesome home. We spent $12,000 including buying the bus and all the appliances. I
 					created this website to display some videos and pictures we took along the way. We tried to document the
 					entire conversion, but toward the end of the conversion we got very busy and weren't able to take as many
-					videos. I hope you enjoy my web site, These videos are all on youtube where you can like and comment on
+					videos. I hope you enjoy my web site, these videos are all on youtube where you can like and comment on
 					them.</p>
 			</div>
 		</div>
@@ -85,7 +85,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead caption">Removing the plywood wasn't easy because the roof hatch's leaked and all the
+					<p class="lead caption">Removing the plywood wasn't easy because the roof hatches leaked and all the
 						screws holding it down where rusted in. </p>
 				</div>
 				<div class="col-md-2"></div>
@@ -108,7 +108,7 @@
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
 					<p class="lead caption">Filling in windows with sheet metal was no fun. Luckily my wife helped me hold
-						the panels and drill and Cleco them in place </p>
+						the panels and drill and Cleco them in place. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -173,7 +173,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead caption">Framing the bus was very easy, not a lot to it and it was my favorite part. </p>
+					<p class="lead caption">Framing the bus was very easy; not a lot to it and it was my favorite part. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -194,7 +194,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead caption">At this point their's still more framing to do but I ran out of wood.</p>
+					<p class="lead caption">At this point there's still more framing to do but I ran out of wood.</p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -237,7 +237,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead caption">This is a poor mans foam insulation. It work's really well though. </p>
+					<p class="lead caption">This is a poor mans foam insulation. It works really well though. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -280,8 +280,8 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead caption">This is a review of the bathtub we decided on. It's brand new off Ebay from rex
-						and sons. </p>
+					<p class="lead caption">This is a review of the bathtub we decided on. It's brand new off Ebay from Rex
+						& Sons Rv's. </p>
 				</div>
 				<div class="col-md-2"></div>
 			</div>
@@ -302,8 +302,8 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead caption">We found a cabinet on the side of the road, I took the top off and sanded it and
-						my wife painted it. I also cut down an armour for the other side of the kitchen and built a cabinet
+					<p class="lead caption">We found a cabinet on the side of the road. I took the top off and sanded it and
+						my wife painted it. I also cut down an armoire for the other side of the kitchen and built a cabinet
 						for the bathroom out of ceder. </p>
 				</div>
 				<div class="col-md-2"></div>
@@ -370,7 +370,7 @@
 			<div class="row">
 				<div class="col-md-2"></div>
 				<div class="col-md-8">
-					<p class="lead caption">Couches are built in, all the cabinet doors are on and most of the bus is
+					<p class="lead caption">Couches are built in. All the cabinet doors are on and most of the bus is
 						painted. </p>
 				</div>
 				<div class="col-md-2"></div>
@@ -408,7 +408,7 @@
 		</div>
 		<div class="container">
 			<div class="row">
-				<p class="lead caption">The bus is finished, there are a few things that had to be changed after we moved
+				<p class="lead caption">The bus is finished. There are a few things that had to be changed after we moved
 					in. You won't know how the floor plan is going to work for you till you stay in it for a while. I have
 					plans for a final video and maybe some others from footage that got cut.</p>
 			</div>
